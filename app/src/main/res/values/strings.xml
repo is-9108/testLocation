@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="Prefecture">東京</string>
+    <string name="city">渋谷</string>
+
+
+</resources>
